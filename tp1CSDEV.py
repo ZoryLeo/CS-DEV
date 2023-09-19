@@ -38,15 +38,3 @@ def date_valide (jour,mois,anne):
 def mesImpots(revenu):
     if 
 
-print(date_valide(25,3,2013))
-
-            
-
-
-'''m=int(input('choisis un mois'))
-a=int(input('choisis une année'))        
-while nb_jours(m,a) == 'probleme de saisie' :
-    m=int(input('choisis un mois'))
-    a=int(input('choisis une année'))     
-print(nb_jours(m,a))
-'''
