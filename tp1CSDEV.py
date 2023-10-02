@@ -35,6 +35,4 @@ def date_valide (jour,mois,anne):
     
     return 'date non valide'
 
-def mesImpots(revenu):
-    if 
 
